@@ -1,0 +1,15 @@
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\bin\Debug\net8.0\Solution345.exe
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\bin\Debug\net8.0\Solution345.deps.json
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\bin\Debug\net8.0\Solution345.runtimeconfig.json
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\bin\Debug\net8.0\Solution345.dll
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\bin\Debug\net8.0\Solution345.pdb
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.AssemblyInfoInputs.cache
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.AssemblyInfo.cs
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.sourcelink.json
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.dll
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\refint\Solution345.dll
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.pdb
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\Solution345.genruntimeconfig.cache
+D:\GitHub Projects\Leet-Code\Solution345\Solution345\obj\Debug\net8.0\ref\Solution345.dll

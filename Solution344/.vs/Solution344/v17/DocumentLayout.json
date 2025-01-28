@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\Leet-Code\\Solution344\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64017F30-8EE4-4401-9AA0-FBD12B2B28EF}|Solution344\\Solution344.csproj|d:\\github projects\\leet-code\\solution344\\solution344\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64017F30-8EE4-4401-9AA0-FBD12B2B28EF}|Solution344\\Solution344.csproj|solutionrelative:solution344\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64017F30-8EE4-4401-9AA0-FBD12B2B28EF}|Solution344\\Solution344.csproj|d:\\github projects\\leet-code\\solution344\\solution344\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64017F30-8EE4-4401-9AA0-FBD12B2B28EF}|Solution344\\Solution344.csproj|solutionrelative:solution344\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Leet-Code\\Solution344\\Solution344\\Solution.cs",
+              "RelativeDocumentMoniker": "Solution344\\Solution.cs",
+              "ToolTip": "D:\\GitHub Projects\\Leet-Code\\Solution344\\Solution344\\Solution.cs",
+              "RelativeToolTip": "Solution344\\Solution.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:46:49.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Leet-Code\\Solution344\\Solution344\\Program.cs",
+              "RelativeDocumentMoniker": "Solution344\\Program.cs",
+              "ToolTip": "D:\\GitHub Projects\\Leet-Code\\Solution344\\Solution344\\Program.cs",
+              "RelativeToolTip": "Solution344\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:46:18.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

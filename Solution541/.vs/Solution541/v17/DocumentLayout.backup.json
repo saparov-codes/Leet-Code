@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\Leet-Code\\Solution541\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{657D0297-967D-49DA-821E-AC48958628BB}|Solution541\\Solution541.csproj|d:\\github projects\\leet-code\\solution541\\solution541\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657D0297-967D-49DA-821E-AC48958628BB}|Solution541\\Solution541.csproj|solutionrelative:solution541\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657D0297-967D-49DA-821E-AC48958628BB}|Solution541\\Solution541.csproj|d:\\github projects\\leet-code\\solution541\\solution541\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657D0297-967D-49DA-821E-AC48958628BB}|Solution541\\Solution541.csproj|solutionrelative:solution541\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Leet-Code\\Solution541\\Solution541\\Solution.cs",
+              "RelativeDocumentMoniker": "Solution541\\Solution.cs",
+              "ToolTip": "D:\\GitHub Projects\\Leet-Code\\Solution541\\Solution541\\Solution.cs*",
+              "RelativeToolTip": "Solution541\\Solution.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:07:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\Leet-Code\\Solution541\\Solution541\\Program.cs",
+              "RelativeDocumentMoniker": "Solution541\\Program.cs",
+              "ToolTip": "D:\\GitHub Projects\\Leet-Code\\Solution541\\Solution541\\Program.cs*",
+              "RelativeToolTip": "Solution541\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:07:13.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
